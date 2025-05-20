@@ -6,7 +6,10 @@ This is a simple Android app developed as part of an internship assignment. It d
 
 | Profile UI |
 |------------|
-| ![Screenshot](screenshots/profile_ui.png) |
+| ![Screenshot](screenshots/![Screenshot 2025-05-21 000132](https://github.com/user-attachments/assets/a58defc6-34ad-4000-9cd3-0333a76ff2b3)
+) |
+|  ![Screenshot](screenshots/![Screenshot 2025-05-21 000203](https://github.com/user-attachments/assets/b205e161-c1f2-43ef-8a31-95e189da6976)
+)
 
 > Add your actual screenshot in a folder named `screenshots` inside your project, and replace `profile_ui.png` with your image filename.
 
